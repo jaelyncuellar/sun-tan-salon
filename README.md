@@ -81,4 +81,4 @@ src/
 
 ## License
 
-MIT License.
+Unlicensed. Not open-soruce. All Rights Reserved.
